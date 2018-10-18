@@ -32,8 +32,5 @@ Moore-Penrose "pseudoinverse." the equation is as follows:
 <em>W = (XTT * X)^−1 * X^T * Y</em>
 <br>
 <br>
-<h5>learn.c</h5>
-<br>
-<ul>
-	<li>
+
 
